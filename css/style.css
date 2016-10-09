@@ -33,6 +33,7 @@ html, body {
 	color: #fff;
 	text-align: center;
 	font-family: 'Comfortaa', sans-serif;
+	margin-bottom: 10px; 
 }
 button {
 	background-color: #00E676;
