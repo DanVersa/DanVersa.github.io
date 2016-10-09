@@ -15,8 +15,8 @@ html, body {
 }
 .car_circle {
 	height: 50px;
-	width: 50px;
-	border-radius: 50%;
+	width: 100px;
+	border-radius: 2px;
 	background-color: #FFEB3B;
 }
 .car_container {
@@ -33,16 +33,6 @@ html, body {
 	color: #fff;
 	text-align: center;
 	font-family: 'Comfortaa', sans-serif;
-}
-.btn_float {
-	position: fixed;
-	right: 30px;
-	bottom: 30px;
-	height: 85px;
-	width: 85px;
-	border-radius: 50%;
-	background-color: #F4511E;
-	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 button {
 	background-color: #00E676;
@@ -61,10 +51,6 @@ button {
 	color: #fff;
 	font-family: 'Comfortaa', sans-serif;
 
-}
-.big {
-	height: 70px;
-	width: 70px;
 }
 
 
