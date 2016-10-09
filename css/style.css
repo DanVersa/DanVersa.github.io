@@ -16,7 +16,7 @@ html, body {
 }
 .car_circle {
 	height: 50px;
-	width: 100px;
+	width: 120px;
 	border-radius: 2px;
 	background-color: #FFEB3B;
 }
