@@ -22,6 +22,7 @@ function counterClick3() {
 	}
 };
 $(document).ready(function(){
+	fetchCounters();
 	window.setInterval(fetchCounters, 1000);
 });
 
