@@ -22,7 +22,6 @@
   		var count = snapshot.val();
   		count++;
   		database.ref('counter/').set(count);
-  		return count;
   		$("#clicks").html(count);
   	});
   };
