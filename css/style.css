@@ -2,6 +2,7 @@ html, body {
 	margin: 0;
 }
 #container {
+	margin-top: 0px;
 	background-image: url("http://bootcamp.parsons.edu/2016/wp-content/uploads/2016/08/MTM2NDU2MTg4MTgyMTQ0NjA3.jpg");
 	background-size: cover;
 	height: 100vh;
@@ -50,7 +51,7 @@ button {
 .car_container a {
 	color: #fff;
 	font-family: 'Comfortaa', sans-serif;
-
+	font-size: 18px;
 }
 
 
