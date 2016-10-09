@@ -12,7 +12,6 @@ html, body {
 	font-family: 'Comfortaa', sans-serif;
 	text-align: center;
 	font-size: 50px;
-	display: flex;
 }
 .car_circle {
 	height: 50px;
