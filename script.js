@@ -22,7 +22,9 @@ function counterClick3() {
 	}
 };
 $(document).ready(function(){
-	fetchCounter1();
-	fetchCounter2();
-	fetchCounter3();
+	window.setInterval(function(){
+		fetchCounter1();
+		fetchCounter2();
+		fetchCounter3();	
+	}, 1000);
 });
